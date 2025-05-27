@@ -1,0 +1,16 @@
+# Default ignored files
+/.idea/shelf/
+
+#Dataset
+/data/
+
+# Project specific files
+/all_images.npy
+
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/.idea
+/dataSources/
+/dataSources.local.xml
